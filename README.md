@@ -1,8 +1,8 @@
 # README #
 
-This is the source repository for the geooperator facet browser.
+This is the source repository for the geooperator browser based on faceted browsing.
 
-The prototype can be accessed at [geoprocessing@TUD](http://purl.org/net/jbrauner/geooperators).
+The original prototype can be accessed at [geoprocessing@TUD](http://purl.org/net/jbrauner/geooperators).
 
 It needs to be deployed as is in a Web Server (e.g. Apache or Lightttp).
 
