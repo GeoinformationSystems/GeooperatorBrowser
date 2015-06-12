@@ -78,6 +78,10 @@ div.exhibit-focusDialog {
     right: 25%;
 }
 
+td.exhibit-lens-property-name {
+    width: 200px;
+}
+
 #page {
     background-color: #FFFFFF;
     /*height: 5650px;*/
