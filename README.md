@@ -2,9 +2,9 @@
 
 This is the source repository for the geooperator browser based on faceted browsing.
 
-The current version is deployed at (http://purl.org/net/geooperators).
+The current version is deployed at http://purl.org/net/geooperators.
 
-For historical reasons, the original prototype can be accessed at (http://purl.org/net/jbrauner/geooperators).
+For historical reasons, the original prototype can be accessed at http://purl.org/net/jbrauner/geooperators.
 
 It needs to be deployed as is in a Web Server (e.g. Apache or Lightttp).
 
