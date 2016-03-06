@@ -9,6 +9,6 @@ For historical reasons, the original prototype can be accessed at http://purl.or
 It needs to be deployed as is in a Web Server (e.g. Apache or Lightttp).
 
 The software is based on Exihibt 2 which originally is released under this BSD licence.
-Please send any questions to Johannes Brauner (johannes.brauner@tu-dresden.de).
+Please send any questions to Johannes Brauner (https://github.com/jbrauner).
 
 The geooperator thesaurus data model used here is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
