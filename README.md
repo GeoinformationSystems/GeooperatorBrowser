@@ -12,3 +12,5 @@ The software is based on Exihibt 2 which originally is released under this BSD l
 Please send any questions to Johannes Brauner (https://github.com/jbrauner).
 
 The geooperator thesaurus data model used here is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+The geooperator thesaurus is also integrated into the 52North Geprocessing Appstore (https://github.com/52North/GeoprocessingAppstore).
